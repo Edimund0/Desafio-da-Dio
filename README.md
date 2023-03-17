@@ -1,2 +1,5 @@
 # Desafio-da-Dio
-Trabalhando com equipes agil 
+Introdução ao Desenvolvimento Moderno de Softwere
+
+Aprende sobre diferencia de profissionais 
+na area de softwere
